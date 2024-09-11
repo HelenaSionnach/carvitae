@@ -89,19 +89,6 @@ education:
             - Bullet point
             - Bullet point      
 
-education:
-    title: Education
-    info:  
-      - degree: BSc in Computer Science
-        university: University of London
-        time: 2007 - 2011
-        details: |
-             Double majored at CS/Econ, main focus of the study was applied math in CS and Econ, informational flow management,
-             system integrations          
-            - BSc was a practical system for worker assesment written in QT/C++
-            - Favorite subjects: PLs and Comp Architecture, System Theory, Philosophy, Marketing
-
-
 experiences:
     title: Experiences
     info:

@@ -63,11 +63,11 @@ career-profile:
       I started out as an assistant sysadmin at Herzena Uni in Saint Petersburg, solving various hardware and software
       problems. Then I was a PM at a moderatly large TelCo corparation in Moscow. My first coding job was for a all stop shop
       developing web and mobile apps for intl clients. For about 11 years I worked as front-end & back-end dev, finally making a move 
-      to cloud architecture (mainly AWS, some Azure)
+      to cloud architecture. mainly AWS, some Azure
       
 education:
     title: Education
-    info:
+    info:  
       - degree: BSc in Computer Science
         university: University of London
         time: 2007 - 2011

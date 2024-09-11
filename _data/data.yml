@@ -64,7 +64,31 @@ career-profile:
       problems. Then I was a PM at a moderatly large TelCo corparation in Moscow. My first coding job was for a all stop shop
       developing web and mobile apps for intl clients. For about 11 years I worked as front-end & back-end dev, finally making a move 
       to cloud architecture. mainly AWS, some Azure
-      
+
+education:
+    title: Education
+    info:
+      - degree: BSc in Computer Science
+        university: SpBSTU, Saint Petersburg
+        time: 2007 - 20111
+        details: |
+          Double majored at CS/Econ, main focus of the study was applied math in CS and Econ, informational flow management,
+             system integrations. Donec quam felis, ultricies nec, pellentesque eu,
+          pretium quis, sem.
+            - Bullet point
+            - Bullet point
+      - degree: BSc in Applied Mathematics
+        university: Bristol University
+        time: 2007 - 2011
+        details: |
+          Describe your study here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+          sociis natoque penatibus et magnis dis parturient montes, nascetur
+          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+          pretium quis, sem.
+            - Bullet point
+            - Bullet point      
+
 education:
     title: Education
     info:  

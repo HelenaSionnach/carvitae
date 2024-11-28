@@ -1,247 +1,244 @@
-#
-# Be aware that even a small syntax error here can lead to failures in output.
-#
-
 sidebar:
-    position: right # position of the sidebar : left or right
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
-
-    # Profile information
-    name: Helena Saveleva   
-    tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-
-    # Sidebar links
-    email: s2549976.el@gmail.com
-    phone: +381 62 1612227
-    timezone: CET # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
-    citizenship: Russian Federation
-    website: # Include the full website URL, including "http://" or "https://".
-    linkedin: lilislilit
-    xing: 
-    github: HelenaSionnach
-    telegram: lilislilit
-    gitlab:
-    bitbucket:
-    twitter: '@VoidyBirdy'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
-    mastodon:  https://mastodon.social/@lilislilit
-    hackerrank: # Please provide your HackerRank username.
-    leetcode: # Please provide your LeetCode username.
-    pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
-
-    languages:
-      title: Languages
-      info:
-        - idiom: English
-          level: Professional(C1+)
-
-        - idiom: Russian  
-          level: Native
-
-    interests:
-      title: Interests
-      info:
-        - item: Music
-          link:
-
-        - item: Hiking
-          link:
-
-        - item: Fine/Modern Arts
-          link:
-
+  position: right
+  about: true
+  education: false
+  name: Helena Saveleva
+  tagline: Full Stack Developer
+  avatar: profile.png
+  email: s2549976.el@gmail.com
+  phone: +381 62 1612227
+  timezone: CET
+  citizenship: Russian Federation
+  website: null
+  linkedin: lilislilit
+  xing: null
+  github: HelenaSionnach
+  telegram: lilislilit
+  gitlab: null
+  bitbucket: null
+  twitter: '@VoidyBirdy'
+  stack-overflow: null
+  codewars: null
+  goodreads: 65597774-elena-saveleva
+  mastodon: 'https://mastodon.social/@lilislilit'
+  hackerrank: null
+  leetcode: null
+  pdf: null
+  languages:
+    title: Languages
+    info:
+      - idiom: English
+        level: Professional(C1+)
+      - idiom: Russian
+        level: Native
+  interests:
+    title: Interests
+    info:
+      - item: Music
+        link: null
+      - item: Hiking
+        link: null
+      - item: Fine/Modern Arts
+        link: null
 career-profile:
-    title: Career Profile
-    summary: |
-      I started out as an assistant sysadmin at Herzena Uni in Saint Petersburg, solving various hardware and software
-      problems. Then I was a PM at a moderatly large TelCo corparation in Moscow. My first coding job was for a all stop shop
-      developing web and mobile apps for intl clients. For about 11 years I worked as front-end & back-end dev, finally making a move 
-      to cloud architecture. Mainly AWS, some Azure
+  title: Career Profile
+  summary: >
+    I began my career as an assistant sysadmin at Herzena University in Saint
+    Petersburg, solving various hardware and software
 
+    issues. Later, I worked as a project manager at a moderately large telecom
+    corporation in Moscow. My first coding job was with 
+
+    an all-in-one shop developing web and mobile apps for international clients.
+    Over the last 11 years, I've worked as a front-end and 
+
+    back-end developer, eventually transitioning to cloud architecture,
+    primarily using AWS with some experience in Azure
 education:
-    title: Education
-    info:
-      - degree: BSc in Computer Science
-        university: SpBSTU, Saint Petersburg
-        time: 2007 - 20111
-        details: |
-          Double majored at CS/Econ, main focus of the study was applied math in CS and Econ, informational flow management,
-             system integrations. My favoure subject were:
-            - Stats & Optimization Methods
-            - Econometrics
-            - Search Systems
-            - Database Design
-      
+  title: Education
+  info:
+    - degree: BSc in Computer Science
+      university: 'SpBSTU, Saint Petersburg'
+      time: 2007 - 2011
+      details: >
+        I earned a double major in Computer Science and Economics, with a strong
+        focus on applying mathematics to solve problems in both fields. 
+
+        My coursework emphasized information flow management, system
+        integration, and the practical application of advanced techniques in
+        computer 
+
+        science and economics. Some of the subjects I found most engaging were 
+         - **Statistics & Optimization Methods**:  Techniques for analyzing data
+        and improving system performance. 
+         - **Econometrics**:  Applying
+        statistical methods to economic data for predictive modeling and
+        decision-making. 
+         - **Search Systems**:  Designing and optimizing search
+        algorithms and engines for efficient information retrieval.
+         - **Database Design**:  Structuring relational databases to ensure scalability, reliability, and data integrity.
 experiences:
-    title: Experiences
-    info:
-      - role: Key Developer
-        time: 2022 - Present
-        company: EPAM SYSTEMS, Belgrade, Serbia
-        details: |
-          Worked on a multitiered dashboard for price adjustment for a data collection/financial managment type client.
-            - Developed functionality both front and back end, participated in architectural reviews
-            - Resolved issues with deployments (cloudformation templates for AWS, event templates for SNS and SQS)
-      
-      - role: Software Engineer
-        time: 2019 - 2021
-        company: Arcadia Soft, Saint Petersburg
-        details: |
-          Participated at refinement of advert targeting system for school oriented social network, developed systems for 
-          goverment oriented reporting (again, related to docs system in schooling) 
+  title: Experiences
+  info:
+    - role: Key Developer
+      time: 2022 - Present
+      company: 'EPAM SYSTEMS, Belgrade, Serbia'
+      details: >
+        Worked on a multitiered dashboard for price adjustment for a data
+        collection/financial management type client.
+          - Developed functionality both front and back end, participated in architectural reviews
+          - Resolved issues with deployments (cloudformation templates for AWS, event templates for SNS and SQS)
+    - role: Software Engineer
+      time: 2019 - 2021
+      company: 'Arcadia Soft, Saint Petersburg'
+      details: >
+        Participated at refinement of advert targeting system for school
+        oriented social network, developed systems for 
 
-      - role: Group Coordinator, Organizer  
-        time: 2018 - 2020
-        company: PyLadies, Saint Petersburg
-        details: |
-          Was a key contributor in establishing the local branch of PyLadies in Saint Petersburg, Russia. 
-            - Searched and coached speaker, help with contents and formating of presentation for tech talk
-            - Selected and networked with actual and prospective venues for tech talk, meetups and hackatons
-            - Organized brunches and workshops
+        government oriented reporting (again, related to docs system in
+        schooling) 
+    - role: 'Group Coordinator, Organizer'
+      time: 2018 - 2020
+      company: 'PyLadies, Saint Petersburg'
+      details: >
+        Played a key role in founding the local branch of PyLadies in Saint Petersburg, Russia, fostering diversity and inclusion in the tech community.  
+          - Volunteered to search for and coach speakers, assisting with the content and formatting of presentations for tech talks.  
+          - Built relationships with venues and coordinated logistics for tech talks, meetups, and hackathons, promoting collaborative learning opportunities.  
+          - Organized community-focused events, including brunches and workshops, to support knowledge sharing and skill development.  
 
-      - role: Web Developer & Data Scientist  
-        time: 2016 - 2018
-        company: Arcadia Inc, Saint Petersburg
-        details: |
-          Developed, tested and deployed involed interactive dashboard for risk assessment software. R&D for medical text Topic Modeling 
-            - Implemented backend logic, data migration pathways and procedures (ETL), and APIs, using ASP.Net MVC
-            - Developed and initially tested front-end functionality with AngularJS/Angular2/Angular4
-            - Performed data analysis and curated NLP model building with R/Python(topicmodel, text2vec), monitored algos from domain experts in Fortran
-            - create interactive dataviz with RShiny
-      
-      - role: Software Developer
-        time: 2015 - 2016
-        company: dnevnik.ru, Saint Petersburg
-        details: |
-          Developed, tested and deployed functionality for digital education suite. Main focus: ad targeting euristics and front-end, goverment complience subsystems
-            - Implemented backend logic, publics APIs using ASP.Net MVC
-            - Developed and initially tested front-end functionality Vanilla JS, JGrid
-            - Written and deployed data migration (Liquid)
-      
-      - role: Crossplatform App Developer
-        time: 2014 - 2015
-        company: Notissimus, Saint Petersburg
-        details: |
-          Developed, tested and released several mobile app to the AppStore/Google Play. 
-            - Participated in the development of platform independant common app skeleton. Xamarin Framework
-            - Apps released (Pulkovo terminal(no longer supported), GAP, LENTA(x5 group))
-
-      - role: Crossplatform App Developer
-        time: 2014 - 2015
-        company: Touch Instinct, Saint Petersburg
-        details: |
-          Developed, tested and released several mobile apps to the AppStore/Google Play. 
-            - Participated in the development of platform independant common app skeleton. Xamarin Framework
-            - Apps released (Steam(movie streaming), Trava(audio streaming))
-            - Fixed bugs related to task scheduling subsystem (thread pool alternative)
-            - resolved auido desync and seek function issues
-    
-      - role: Software Developer
-        time: 2014 - 2015
-        company: Yumasoft Inc, Saint Petersburg
-        details: |
-          Developed, tested and deployed (manual deployment, using ftp/ssh) several user stories related to video survailance dashboards
-            - Front-end for biometric face matching (NEC Neoface), KendoUI, JQuery
-            - Test data generation toolkit (in-house), Windows Forms
-            - Fixed bugs related to task scheduling subsystem (thread pool alternative)
-
+    - role: Web Developer & Data Scientist
+      time: 2016 - 2018
+      company: 'Arcadia Inc, Saint Petersburg'
+      details: >
+        Developed, tested and deployed involved interactive dashboard for risk
+        assessment software. R&D for medical text Topic Modeling 
+          - Implemented backend logic, data migration pathways and procedures (ETL), and APIs, using ASP.Net MVC
+          - Developed and initially tested front-end functionality with AngularJS/Angular2/Angular4
+          - Performed data analysis and curated NLP model building with R/Python(topicmodel, text2vec), monitored algos from domain experts in Fortran
+          - created interactive dataviz with RShiny
+    - role: Software Developer
+      time: 2015 - 2016
+      company: 'dnevnik.ru, Saint Petersburg'
+      details: >
+        Contributed to the enhancement of an advertisement targeting system for a school-oriented social network.
+        Additionally, developed systems for government-mandated reporting, 
+        specifically related to document management in the education sector.
+          - Designed and implemented backend logic and public APIs using ASP.NET MVC.  
+          - Developed and tested front-end functionality using Vanilla JavaScript and JGrid.  
+          - Created and deployed data migration processes for seamless system integration
+    - role: Crossplatform App Developer
+      time: 2014 - 2015
+      company: 'Notissimus, Saint Petersburg'
+      details: >
+        Developed, tested, and successfully released multiple mobile applications to the App Store and Google Play.  
+          - Contributed to the creation of a platform-independent common app skeleton using the Xamarin framework.  
+          - Notable releases include the **Pulkovo Terminal** app (no longer supported), **GAP**, and **LENTA** (X5 Group).
+    - role: Crossplatform App Developer
+      time: 2014 - 2015
+      company: 'Touch Instinct, Saint Petersburg'
+      details: >
+        Developed, tested, and released multiple mobile applications to the App Store and Google Play.  
+          - Played a key role in developing a platform-independent app skeleton using the Xamarin framework.  
+          - Notable apps released include **Steam** (movie streaming) and **Trava** (audio streaming).  
+          - Diagnosed and fixed bugs in the task scheduling subsystem, implementing a thread pool alternative for improved performance.  
+          - Resolved audio desynchronization and seek function issues to enhance user experience.  
+    - role: Software Developer
+      time: 2014 - 2015
+      company: 'Yumasoft Inc, Saint Petersburg'
+      details: >
+        Developed, tested, and manually deployed several user stories for video surveillance dashboards using FTP/SSH.  
+          - Implemented front-end functionality for biometric face matching using NEC NeoFace API, KendoUI, and jQuery.  
+          - Created an in-house test data generation toolkit with Windows Forms.  
 certifications:
-      title: Certifications
-      list:
-        - name: Design Databases With PostgreSQL Skill Path
-          start: 2021
-          end: 2021
-          organization: Codecademy
-          credentialid: 377DB0AA-3
-          credentialurl: www.codecademy.com/profiles/lilislilit/certificates/5f64e3b492de0000131ecbe0
-          credentialname: Codecademy
-          details: |
-            Data is only as useful as the database it is stored in. 
-            In this Skill Path, you will learn how to store and access relational data in PostgreSQL,
-             an industry standard database management system used by AWS. 
-             Learn how to design efficient relational databases while using industry-standard techniques to maintain data integrity.
+  title: Certifications
+  list:
+    - name: Design Databases With PostgreSQL Skill Path
+      start: 2021
+      end: 2021
+      organization: Codecademy
+      credentialid: 377DB0AA-3
+      credentialurl: >-
+        www.codecademy.com/profiles/lilislilit/certificates/5f64e3b492de0000131ecbe0
+      credentialname: Codecademy
+      details: >
+        Data is only as useful as the database it is stored in. 
 
-        - name: Learn React
-          start: 2019
-          end: 2019
-          organization: Codecademy
-          credentialid: 436B2262-F
-          credentialurl: www.codecademy.com/profiles/lilislilit/certificates/af00e5032d0a68cc84879983f5d8333b
-          credentialname: Codecademy
-          details: |
-            React (sometimes spelled React.js or ReactJS) is one of the most popular JavaScript libraries to develop powerful, 
-            interactive web applications. You learn how to start with React and build up to dynamic user interfaces. 
-            You will work with React specific concepts like: JSX, components, state, props, hooks, and more.
-             Take this course to gain an edge as a front-end or full-stack web developer.
+        In this Skill Path, you will learn how to store and access relational
+        data in PostgreSQL,
+         an industry standard database management system used by AWS. 
+         Learn how to design efficient relational databases while using industry-standard techniques to maintain data integrity.
+    - name: Learn React
+      start: 2019
+      end: 2019
+      organization: Codecademy
+      credentialid: 436B2262-F
+      credentialurl: >-
+        www.codecademy.com/profiles/lilislilit/certificates/af00e5032d0a68cc84879983f5d8333b
+      credentialname: Codecademy
+      details: >
+        React (sometimes spelled React.js or ReactJS) is one of the most popular
+        JavaScript libraries to develop powerful, 
 
-        - name: Mobile Cloud Computing with Android
-          start: 2014
-          end: 2014
-          organization: Coursera
-          credentialid: NA
-          credentialurl: www.coursera.org
-          credentialname: Coursera
-          details: |
-            Now defunct course that teached full scope of both developing Android apps and API for them using Spring framework
+        interactive web applications. You learn how to start with React and
+        build up to dynamic user interfaces. 
 
+        You will work with React specific concepts like: JSX, components, state,
+        props, hooks, and more.
+         Take this course to gain an edge as a front-end or full-stack web developer.
+    - name: Mobile Cloud Computing with Android
+      start: 2014
+      end: 2014
+      organization: Coursera
+      credentialid: NA
+      credentialurl: www.coursera.org
+      credentialname: Coursera
+      details: >
+        Now defunct course that teached full scope of both developing Android
+        apps and API for them using Spring framework
 projects:
-    title: Projects
-    intro: >
-      Some fun messing around
-    assignments:
-      - title: Untappd data scrapper
-        link: "https://github.com/lilislilit/forbiddenbeer"
-        tagline: "An unobtrusive data scrapper for untappd with Selenium. Strictly for personal use"
-
-      - title: A certain list parser
-        link: "https://github.com/lilislilit/fedsfm_data"
-        tagline: "Gather & visualize data from fedsfm terrorists and extremists list."
-
+  title: Projects
+  intro: |
+    Some fun messing around
+  assignments:
+    - title: Untappd data scrapper
+      link: 'https://github.com/lilislilit/forbiddenbeer'
+      tagline: >-
+        An unobtrusive data scrapper for untappd with Selenium. Strictly for
+        personal use
+    - title: A certain list parser
+      link: 'https://github.com/lilislilit/fedsfm_data'
+      tagline: Gather & visualize data from fedsfm terrorists and extremists list.
 oss:
-    title: OSS Contributions
-    intro: >
-      Small contribs but every little bit counts :)
-
-    contributions:
-      - title: exercism, typescript path
-        link: "https://github.com/exercism/typescript"
-        tagline: "Translated a number of challenges for TS track"
-
-      - title: STM
-        link: "https://github.com/bstewart/stm"
-        tagline: "Fixed a bug in a certain dataviz part"
-
+  title: OSS Contributions
+  intro: |
+    Small contribs but every little bit counts :)
+  contributions:
+    - title: 'exercism, typescript path'
+      link: 'https://github.com/exercism/typescript'
+      tagline: Translated a number of challenges for TS track
+    - title: STM
+      link: 'https://github.com/bstewart/stm'
+      tagline: Fixed a bug in a certain dataviz part
 skills:
-    title: Skills &amp; Proficiency
-
-    toolset:
-      - name: C#
-        level: 98%
-
-      - name: .net core
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Python
-        level: 70%
-
-      - name: Canva & Figma
-        level: 60%
-
-      - name: Vue
-        level: 55%
-      
-      - name: React
-        level: 55%
-
+  title: Skills &amp; Proficiency
+  toolset:
+    - name: 'C#'
+      level: 98%
+    - name: .net core
+      level: 98%
+    - name: Angular
+      level: 98%
+    - name: HTML5 & CSS
+      level: 95%
+    - name: Python
+      level: 70%
+    - name: Canva & Figma
+      level: 60%
+    - name: Vue
+      level: 55%
+    - name: React
+      level: 55%
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+  Designed with <i class="fas fa-heart"></i> by <a
+  href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying
+  Riley</a>

@@ -103,7 +103,7 @@ experiences:
             - Selected and networked with actual and prospective venues for tech talk, meetups and hackatons
             - Organized brunches and workshops
 
-      - role: Web Developer & Data Scientist @  
+      - role: Web Developer & Data Scientist  
         time: 2016 - 2018
         company: Arcadia Inc, Saint Petersburg
         details: |
@@ -112,8 +112,43 @@ experiences:
             - Developed and initially tested front-end functionality with AngularJS/Angular2/Angular4
             - Performed data analysis and curated NLP model building with R/Python(topicmodel, text2vec), monitored algos from domain experts in Fortran
             - create interactive dataviz with RShiny
+      
+      - role: Software Developer
+        time: 2015 - 2016
+        company: dnevnik.ru, Saint Petersburg
+        details: |
+          Developed, tested and deployed functionality for digital education suite. Main focus: ad targeting euristics and front-end, goverment complience subsystems
+            - Implemented backend logic, publics APIs using ASP.Net MVC
+            - Developed and initially tested front-end functionality Vanilla JS, JGrid
+            - Written and deployed data migration (Liquid)
+      
+      - role: Crossplatform App Developer
+        time: 2014 - 2015
+        company: Notissimus, Saint Petersburg
+        details: |
+          Developed, tested and released several mobile app to the AppStore/Google Play. 
+            - Participated in the development of platform independant common app skeleton. Xamarin Framework
+            - Apps released (Pulkovo terminal(no longer supported), GAP, LENTA(x5 group))
 
-
+      - role: Crossplatform App Developer
+        time: 2014 - 2015
+        company: Touch Instinct, Saint Petersburg
+        details: |
+          Developed, tested and released several mobile apps to the AppStore/Google Play. 
+            - Participated in the development of platform independant common app skeleton. Xamarin Framework
+            - Apps released (Steam(movie streaming), Trava(audio streaming))
+            - Fixed bugs related to task scheduling subsystem (thread pool alternative)
+            - resolved auido desync and seek function issues
+    
+      - role: Software Developer
+        time: 2014 - 2015
+        company: Touch Instinct, Saint Petersburg
+        details: |
+          Developed, tested and deployed (manual deployment, using ftp/ssh) several user stories related to video survailance dashboards
+            - Front-end for biometric face matching (NEC Neoface), KendoUI, JQuery
+            - Test data generation toolkit (in-house), Windows Forms
+            - Fixed bugs related to task scheduling subsystem (thread pool alternative)
+            
 certifications:
       title: Certifications
       list:

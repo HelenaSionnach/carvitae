@@ -60,7 +60,7 @@ career-profile:
       I started out as an assistant sysadmin at Herzena Uni in Saint Petersburg, solving various hardware and software
       problems. Then I was a PM at a moderatly large TelCo corparation in Moscow. My first coding job was for a all stop shop
       developing web and mobile apps for intl clients. For about 11 years I worked as front-end & back-end dev, finally making a move 
-      to cloud architecture. mainly AWS, some Azure
+      to cloud architecture. Mainly AWS, some Azure
 
 education:
     title: Education
@@ -142,130 +142,87 @@ experiences:
     
       - role: Software Developer
         time: 2014 - 2015
-        company: Touch Instinct, Saint Petersburg
+        company: Yumasoft Inc, Saint Petersburg
         details: |
           Developed, tested and deployed (manual deployment, using ftp/ssh) several user stories related to video survailance dashboards
             - Front-end for biometric face matching (NEC Neoface), KendoUI, JQuery
             - Test data generation toolkit (in-house), Windows Forms
             - Fixed bugs related to task scheduling subsystem (thread pool alternative)
-            
+
 certifications:
       title: Certifications
       list:
-        - name: CV Builder
-          start: 2020
+        - name: Design Databases With PostgreSQL Skill Path
+          start: 2021
           end: 2021
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.google.com
-          credentialname: Google
+          organization: Codecademy
+          credentialid: 377DB0AA-3
+          credentialurl: https://www.codecademy.com/profiles/lilislilit/certificates/5f64e3b492de0000131ecbe0
+          credentialname: Codecademy
           details: |
-            Details about cert. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
+            Data is only as useful as the database it’s stored in. 
+            In this Skill Path, you will learn how to store and access relational data in PostgreSQL,
+             an industry standard database management system used by AWS. 
+             Learn how to design efficient relational databases while using industry-standard techniques to maintain data integrity.
 
-            Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-            fringilla vel. Ut euismod, sem sed vulputate venenatis,
-            justo diam viverra velit, sed rhoncus leo leo eu justo.
-            Suspendisse placerat risus ante, sed porta nisi blandit at.
-        - name: Git learning
+        - name: Learn React
           start: 2019
-          end:
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
+          end: 2019
+          organization: Codecademy
+          credentialid: 436B2262-F
+          credentialurl: https://www.codecademy.com/profiles/lilislilit/certificates/af00e5032d0a68cc84879983f5d8333b
+          credentialname: Codecademy
           details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
+            React (sometimes spelled React.js or ReactJS) is one of the most popular JavaScript libraries to develop powerful, 
+            interactive web applications. You’ll learn how to start with React and build up to dynamic user interfaces. 
+            You’ll work with React specific concepts like: JSX, components, state, props, hooks, and more.
+             Take this course to gain an edge as a front-end or full-stack web developer.
+
+      - name: Mobile Cloud Computing with Android
+          start: 2014
+          end: 2014
+          organization: Coursera
+          credentialid: N/A
+          credentialurl: https://www.coursera.org/
+          credentialname: Codecademy
+          details: |
+            Now defunct course that teached full scope of both developing Android apps and API for them using Spring framework
 
 projects:
     title: Projects
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Some fun messing around
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Untappd data scrapper
+        link: "https://github.com/lilislilit/forbiddenbeer"
+        tagline: "An unobtrusive data scrapper for untappd with Selenium. Strictly for personal use"
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: A certain list parser
+        link: "https://github.com/lilislilit/fedsfm_data"
+        tagline: "Gather & visualize data from fedsfm terrorists and extremists list."
 
 oss:
     title: OSS Contributions
     intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Small contribs but every little bit counts :)
+
     contributions:
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: exercism, typescript path
+        link: "https://github.com/exercism/typescript"
+        tagline: "Translated a number of challenges for TS track"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: STM
+        link: "https://github.com/bstewart/stm"
+        tagline: "Fixed a bug in a certain dataviz part"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: C#
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: .net core
         level: 98%
 
       - name: Angular
@@ -274,11 +231,17 @@ skills:
       - name: HTML5 & CSS
         level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: Python
+        level: 70%
 
-      - name: Sketch & Photoshop
+      - name: Canva & Figma
         level: 60%
+
+      - name: Vue
+        level: 55%
+      
+      - name: React
+        level: 55%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>

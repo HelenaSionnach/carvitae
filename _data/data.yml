@@ -160,7 +160,7 @@ certifications:
           credentialurl: https://www.codecademy.com/profiles/lilislilit/certificates/5f64e3b492de0000131ecbe0
           credentialname: Codecademy
           details: |
-            Data is only as useful as the database it’s stored in. 
+            Data is only as useful as the database it is stored in. 
             In this Skill Path, you will learn how to store and access relational data in PostgreSQL,
              an industry standard database management system used by AWS. 
              Learn how to design efficient relational databases while using industry-standard techniques to maintain data integrity.
@@ -174,8 +174,8 @@ certifications:
           credentialname: Codecademy
           details: |
             React (sometimes spelled React.js or ReactJS) is one of the most popular JavaScript libraries to develop powerful, 
-            interactive web applications. You’ll learn how to start with React and build up to dynamic user interfaces. 
-            You’ll work with React specific concepts like: JSX, components, state, props, hooks, and more.
+            interactive web applications. You learn how to start with React and build up to dynamic user interfaces. 
+            You will work with React specific concepts like: JSX, components, state, props, hooks, and more.
              Take this course to gain an edge as a front-end or full-stack web developer.
 
       - name: Mobile Cloud Computing with Android

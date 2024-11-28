@@ -14,21 +14,21 @@ sidebar:
 
     # Sidebar links
     email: s2549976.el@gmail.com
-    phone: 012 345 6789
-    timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
-    citizenship: N/A
+    phone: +381 62 1612227
+    timezone: CET # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
+    citizenship: Russian Federation
     website: https://example.com/ # Include the full website URL, including "http://" or "https://".
-    linkedin: 
+    linkedin: https://www.linkedin.com/in/lilislilit/
     xing: 
     github: HelenaSionnach
-    telegram: # add your nickname without '@' sign
+    telegram: lilislilit
     gitlab:
     bitbucket:
-    twitter: '@ '
+    twitter: '@VoidyBirdy'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    mastodon:  # Please include your full Mastodon link here.
+    mastodon:  https://mastadon.social/lilislilit
     hackerrank: # Please provide your HackerRank username.
     leetcode: # Please provide your LeetCode username.
     pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
@@ -37,13 +37,10 @@ sidebar:
       title: Languages
       info:
         - idiom: English
-          level: 
+          level: Professional(C1+)
 
-        - idiom: French
-          level: Professional
-
-        - idiom: Spanish
-          level: Professional
+        - idiom: Russian  
+          level: Native
 
     interests:
       title: Interests

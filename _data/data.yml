@@ -8,7 +8,7 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Helena Sionnach/Saveleva   
+    name: Helena Saveleva   
     tagline: Full Stack Developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
@@ -17,8 +17,8 @@ sidebar:
     phone: +381 62 1612227
     timezone: CET # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
     citizenship: Russian Federation
-    website: https://example.com/ # Include the full website URL, including "http://" or "https://".
-    linkedin: https://www.linkedin.com/in/lilislilit/
+    website: # Include the full website URL, including "http://" or "https://".
+    linkedin: lilislilit
     xing: 
     github: HelenaSionnach
     telegram: lilislilit
@@ -157,7 +157,7 @@ certifications:
           end: 2021
           organization: Codecademy
           credentialid: 377DB0AA-3
-          credentialurl: https://www.codecademy.com/profiles/lilislilit/certificates/5f64e3b492de0000131ecbe0
+          credentialurl: www.codecademy.com/profiles/lilislilit/certificates/5f64e3b492de0000131ecbe0
           credentialname: Codecademy
           details: |
             Data is only as useful as the database it is stored in. 
@@ -170,7 +170,7 @@ certifications:
           end: 2019
           organization: Codecademy
           credentialid: 436B2262-F
-          credentialurl: https://www.codecademy.com/profiles/lilislilit/certificates/af00e5032d0a68cc84879983f5d8333b
+          credentialurl: www.codecademy.com/profiles/lilislilit/certificates/af00e5032d0a68cc84879983f5d8333b
           credentialname: Codecademy
           details: |
             React (sometimes spelled React.js or ReactJS) is one of the most popular JavaScript libraries to develop powerful, 
@@ -178,13 +178,13 @@ certifications:
             You will work with React specific concepts like: JSX, components, state, props, hooks, and more.
              Take this course to gain an edge as a front-end or full-stack web developer.
 
-      - name: Mobile Cloud Computing with Android
+        - name: Mobile Cloud Computing with Android
           start: 2014
           end: 2014
           organization: Coursera
           credentialid: NA
-          credentialurl: https://www.coursera.org/
-          credentialname: Codecademy
+          credentialurl: www.coursera.org
+          credentialname: Coursera
           details: |
             Now defunct course that teached full scope of both developing Android apps and API for them using Spring framework
 

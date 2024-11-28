@@ -28,7 +28,7 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    mastodon:  https://mastadon.social/lilislilit
+    mastodon:  https://mastodon.social/@lilislilit
     hackerrank: # Please provide your HackerRank username.
     leetcode: # Please provide your LeetCode username.
     pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
@@ -70,22 +70,12 @@ education:
         time: 2007 - 20111
         details: |
           Double majored at CS/Econ, main focus of the study was applied math in CS and Econ, informational flow management,
-             system integrations. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point      
-
+             system integrations. My favoure subject were:
+            - Stats & Optimization Methods
+            - Econometrics
+            - Search Systems
+            - Database Design
+      
 experiences:
     title: Experiences
     info:
@@ -96,6 +86,7 @@ experiences:
           Worked on a multitiered dashboard for price adjustment for a data collection/financial managment type client.
             - Developed functionality both front and back end, participated in architectural reviews
             - Resolved issues with deployments (cloudformation templates for AWS, event templates for SNS and SQS)
+      
       - role: Software Engineer
         time: 2019 - 2021
         company: Arcadia Soft, Saint Petersburg
@@ -103,17 +94,25 @@ experiences:
           Participated at refinement of advert targeting system for school oriented social network, developed systems for 
           goverment oriented reporting (again, related to docs system in schooling) 
 
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+      - role: Group Coordinator, Organizer  
+        time: 2018 - 2020
+        company: PyLadies, Saint Petersburg
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Was a key contributor in establishing the local branch of PyLadies in Saint Petersburg, Russia. 
+            - Searched and coached speaker, help with contents and formating of presentation for tech talk
+            - Selected and networked with actual and prospective venues for tech talk, meetups and hackatons
+            - Organized brunches and workshops
+
+      - role: Web Developer & Data Scientist @  
+        time: 2016 - 2018
+        company: Arcadia Inc, Saint Petersburg
+        details: |
+          Developed, tested and deployed involed interactive dashboard for risk assessment software. R&D for medical text Topic Modeling 
+            - Implemented backend logic, data migration pathways and procedures (ETL), and APIs, using ASP.Net MVC
+            - Developed and initially tested front-end functionality with AngularJS/Angular2/Angular4
+            - Performed data analysis and curated NLP model building with R/Python(topicmodel, text2vec), monitored algos from domain experts in Fortran
+            - create interactive dataviz with RShiny
+
 
 certifications:
       title: Certifications
